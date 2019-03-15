@@ -18,7 +18,6 @@ public class Motie {
 		return rv;
 	}
 	
-	
 	private String socialeMotie() {
 		return "Wij vinden dat er geld gestopt moet worden in sociale woningen, goede thuiszorg voor iedereen en goede bereikbaarheid via openbaar vervoer.";
 	}
