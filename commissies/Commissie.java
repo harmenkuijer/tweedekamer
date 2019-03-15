@@ -1,5 +1,6 @@
 package commissies;
 
+// testen voor GitHub
 
 /**
  * Abstract class Commissie - write a description of the class here
